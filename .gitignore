@@ -2,5 +2,9 @@
 *.mtl
 *.glts
 *.fbx
+*Hologroid.obj
+*Hologroid.mtl
+*Hologroid.blend
+
 
 .idea/*
